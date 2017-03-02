@@ -3,9 +3,6 @@
 # Update the quantity on two of the records, and then output all of the records
 # from the table.
 
-# Finally output only records that are for Ford vehicles.
-
-
 import sqlite3
 
 with sqlite3.connect("nganya.db") as connection:
