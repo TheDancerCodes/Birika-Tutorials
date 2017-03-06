@@ -1,4 +1,4 @@
-#SQLite Functions
+#SQL Functions
 
 import sqlite3
 
